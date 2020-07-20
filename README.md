@@ -7,13 +7,10 @@ Justin C. Moore here.  In the future, you'll be able to find out all about me at
 ### My bio
 * I am a front-end developer and more.
   * I was more formally educated in mechanical engineering and less formally educated in game development.
-
 * I think in JavaScript, but love reading code in any language that has an implementation of a solution relevant to my interests when time permits.
   * I see code as data and am convinced that the time has come to develop richer interactive data visualizations that convey the meaning of code (just as charts and graphs were invented to uniquely express and understand tabular data).
-
 * I pursue the design of systems that obviate or delay the need to make less important decisions so attention can be focused on more important ones.
   * I believe a strong foundation in data structures (persistent and otherwise), distributed consensus, and static analysis will be essential to realize my vision.
-
 * I am inclined towards entrepreneurship.
 
 ### My speaking references
