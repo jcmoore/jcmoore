@@ -29,8 +29,8 @@ Justin C. Moore here.  In the future, you'll be able to find out all about me at
   * I am particularly interested in in the sort of distributed consensus that can be achieved by deterministic processing of strictly consistently ordered distributed logs (FoundationDB, CockroachDB, and Kafka come to mind) while basing any optimism on a log prefix for which only eventual consistency can be assured.
 
 ### My resume and other professional resources
-* [Resume.pdf](./justin_c_moore_resume_2020.pdf)
-* [Resume.docx](./justin_c_moore_resume_2020.docx)
+* [Resume.pdf](https://github.com/jcmoore/jcmoore/blob/master/justin_c_moore_resume_2020.pdf)
+* [Resume.docx](https://github.com/jcmoore/jcmoore/blob/master/justin_c_moore_resume_2020.docx)
 
 ### My start-up past and future thoughts
 * I co-founded Tap.Me, Inc. in 2009 -- it was acquired by MediaMath, Inc. in 2012.
